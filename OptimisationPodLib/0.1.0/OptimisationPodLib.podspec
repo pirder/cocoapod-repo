@@ -29,5 +29,5 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '10.0'
   s.swift_versions = ['5.0', '5.1']
   s.static_framework = true
-  s.source_files = 'OptimisationPodLib/OptimisationPodLib/Classes/**/*'
+  s.source_files = 'OptimisationPodLib/Classes/**/*'
 end
