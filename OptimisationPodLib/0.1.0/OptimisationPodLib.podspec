@@ -30,5 +30,5 @@ TODO: Add long description of the pod here.
   s.requires_arc = true
   s.swift_version = '5.0'
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
-  s.source_files = 'OptimisationPodLib/Classes/*'
+  s.source_files = 'OptimisationPodLib/Classes/*.swift'
 end
